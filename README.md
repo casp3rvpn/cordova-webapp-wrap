@@ -6,3 +6,4 @@ Instructions:
 5. Confugure config.xml
 6. Run "cordova build android" (android)
 7. Run "cordova build ios" (ios)
+8. Test the apk/ipa output file in an android/ios emmulator or in the real phone
