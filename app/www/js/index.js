@@ -31,7 +31,7 @@ var app = {
 	if (navigator.connection.type == Connection.NONE) {
      	 navigator.notification.alert('An internet connection is required to continue');
     	} else {
-      	 window.location="http://dev.loc.com";
+      	 window.location="https://sbarro.by";
     	}	
 
     },
